@@ -64,12 +64,13 @@ This app implements strict AI usage guidelines:
 - ❌ NO medical/financial advice
 - ✅ Concept explanations only
 - ✅ Encourages independent thinking
-
+<!--
 ## 📖 Documentation
 
 - [Deployment Guide](./docs/DEPLOYMENT.md)
 - [AI Usage Guidelines](./docs/AI_USAGE.md)
 
 ## 🏆 Built for Imagine Cup 2026
+-->
 
 Focusing on student impact and responsible technology use.
